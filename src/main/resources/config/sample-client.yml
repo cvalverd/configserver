@@ -1,0 +1,6 @@
+sample:
+  greeting: "Hola desde Spring Cloud Config Server"
+  datasource:
+    url: jdbc:h2:mem:sample
+    username: sa
+    password:
